@@ -1,0 +1,1 @@
+In this project, I will use developer tools to copy the html and css which make the google home page.
